@@ -1,4 +1,4 @@
-import{Ct as e,Ft as t,Nt as n,Rt as r,St as i,Tt as a,d as o,it as s,jt as c,m as l,qt as u,wt as d}from"./index-BmmKaSak.js";var f=l.extend({name:`tag`,style:`
+import{Ct as e,Ft as t,Nt as n,Rt as r,St as i,Tt as a,d as o,it as s,jt as c,m as l,qt as u,wt as d}from"./index-PCNsX-0F.js";var f=l.extend({name:`tag`,style:`
     .p-tag {
         display: inline-flex;
         align-items: center;

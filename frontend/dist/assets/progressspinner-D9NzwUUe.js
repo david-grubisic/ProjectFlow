@@ -1,4 +1,4 @@
-import{Nt as e,St as t,Tt as n,d as r,jt as i,m as a}from"./index-BmmKaSak.js";var o=a.extend({name:`progressspinner`,style:`
+import{Nt as e,St as t,Tt as n,d as r,jt as i,m as a}from"./index-PCNsX-0F.js";var o=a.extend({name:`progressspinner`,style:`
     .p-progressspinner {
         position: relative;
         margin: 0 auto;

@@ -1,4 +1,4 @@
-import{Nt as e,Tt as t,it as n,jt as r,m as i}from"./index-BmmKaSak.js";import{t as a}from"./baseinput-BLLuQEt5.js";var o={name:`BaseInputText`,extends:a,style:i.extend({name:`inputtext`,style:`
+import{Nt as e,Tt as t,it as n,jt as r,m as i}from"./index-PCNsX-0F.js";import{t as a}from"./baseinput-C5P1P0YD.js";var o={name:`BaseInputText`,extends:a,style:i.extend({name:`inputtext`,style:`
     .p-inputtext {
         font-family: inherit;
         font-feature-settings: inherit;
