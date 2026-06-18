@@ -16,7 +16,6 @@ declare module 'vue' {
     Column: typeof import('primevue/column')['default']
     DataTable: typeof import('primevue/datatable')['default']
     Dialog: typeof import('primevue/dialog')['default']
-    HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
     InputText: typeof import('primevue/inputtext')['default']
     Password: typeof import('primevue/password')['default']
     ProgressBar: typeof import('primevue/progressbar')['default']
